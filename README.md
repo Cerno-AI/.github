@@ -4,7 +4,7 @@
 
 Cerno is an open-source initiative creating local-first tools for advanced workflows powered by LLMs and autonomous agents.
 
-Our mission: Empower developers, researchers, and analysts with **transparent**, **customizable**, and **vendor-agnostic** tools that run on your terms — right from your machine.
+Our mission: Empower developers, researchers, and analysts with **transparent**, **customizable**, and **vendor-agnostic** tools that run on your terms, right from your machine.
 
 
 
@@ -16,7 +16,7 @@ A local-first workspace for deep, multi-step research with autonomous agents. Pl
 
 
 ### 2. **Cerno Core** _(in development)_  
-An autonomous AI productivity assistant — similar to Manus — designed to help manage:
+An autonomous AI productivity assistant designed to help manage:
 
 - **Email & Calendar** (Gmail, Google Calendar, Outlook)
 - **Task Planning & Notes**
