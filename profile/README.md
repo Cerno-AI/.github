@@ -10,7 +10,7 @@ Our mission: Empower developers, researchers, and analysts with **transparent**,
 
 ##  Flagship Projects
 
-### 1. [**Cerno: Agentic Deep Research**](https://github.com/cerno-research/Cerno-Agentic-Local-Deep-Research)  
+### 1. [**Cerno: Agentic Deep Research**](https://github.com/cerno-ai/Cerno-Agentic-Local-Deep-Research)  
 A local-first workspace for deep, multi-step research with autonomous agents. Plan, execute, audit — step-by-step.
 
 
