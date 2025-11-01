@@ -17,7 +17,7 @@ A local-first workspace for deep, multi-step research with autonomous agents. Pl
 A self-hosted engineering intelligence layer for your codebase. Helix ingests your repository, builds a Merkle-hashed graph of your code, and unlocks deep architectural understanding — from dependency maps to living documentation and AI-powered code navigation.
 Refactor confidently, accelerate onboarding, generate tests and documentation instantly, and explore complex systems through an intelligent code graph — all running locally with privacy by design.
 
-## 3. [**Cerno Docs**](https://github.com/Cerno-AI/Cerno-Docs)
+### 3. [**Cerno Docs**](https://github.com/Cerno-AI/Cerno-Docs)
 High-performance RAG system for intelligent document Q&A with hybrid retrieval, GPU acceleration, and citation-backed answers. Upload docs, ask questions, get precise responses.
 
 ### 4. **Cerno Core** _(in development)_  
