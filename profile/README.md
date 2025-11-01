@@ -13,9 +13,11 @@ Our mission: Empower developers, researchers, and analysts with **transparent**,
 ### 1. [**Cerno: Agentic Deep Research**](https://github.com/cerno-ai/Cerno-Agentic-Local-Deep-Research)  
 A local-first workspace for deep, multi-step research with autonomous agents. Plan, execute, audit — step-by-step.
 
+### 2. [**Cerno Helix**](https://github.com/Cerno-AI/Cerno-Helix)  
+A self-hosted engineering intelligence layer for your codebase. Helix ingests your repository, builds a Merkle-hashed graph of your code, and unlocks deep architectural understanding — from dependency maps to living documentation and AI-powered code navigation.
+Refactor confidently, accelerate onboarding, generate tests and documentation instantly, and explore complex systems through an intelligent code graph — all running locally with privacy by design.
 
-
-### 2. **Cerno Core** _(in development)_  
+### 3. **Cerno Core** _(in development)_  
 An autonomous AI productivity assistant designed to help manage:
 
 - **Email & Calendar** (Gmail, Google Calendar, Outlook)
