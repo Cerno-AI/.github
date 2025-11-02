@@ -41,9 +41,7 @@ Built with a local-first philosophy and extensibility at its core.
 ##  More Tools Coming Soon
 
 We’re building a broader ecosystem around Cerno’s agentic core:
-- **Cerno Docs** — A local-first RAG-based chat interface that lets you query, summarize, and extract insights from your personal or team document repositories in seconds.
 - **Cerno Flow** – Visual drag-and-drop interface for task orchestration.
-- **Cerno Papers** – Offline-first paper reader with AI annotation.
 - **Cerno Bench** – Benchmarks for agent workflows across local/cloud LLMs.
 
 
